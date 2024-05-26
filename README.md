@@ -10,15 +10,15 @@ This project is a Python implementation of the classic board game "Go". The game
 - **MVC Architecture**: Clean separation of concerns for maintainability and scalability.
 
 ## Installation
-1. **Clone the repository**
-2. **Install dependencies**:
+1. Clone the repository
+2. Install dependencies:
     ```bash
     pip install pyglet
     ```
     
 ## How to Run
-1. **Navigate to the project directory**
-2. **Run the game**:
+1. Navigate to the project directory
+2. Run the game:
     ```bash
     python3 controller.py
     ```
