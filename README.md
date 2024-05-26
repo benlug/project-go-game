@@ -37,4 +37,4 @@ This project is a Python implementation of the classic board game "Go". The game
 4. **End the game**: The game will end when both players pass consecutively, and the final score will be calculated.
 
 ## Acknowledgements
-This project was developed as part of the MAT101 Programming course.
+This project was developed as part of the MAT101 Programming course at the University of Zurich.
