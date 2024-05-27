@@ -7,7 +7,6 @@ This project is a Python implementation of the classic board game "Go". The game
 - **Interactive GUI**: Allows players to place stones on a 9x9 board.
 - **Game Rules**: Implements core Go rules, including capturing stones and checking for valid moves.
 - **Territory Marking**: Automatically claims territory and computes scores.
-- **MVC Architecture**: Clean separation of concerns for maintainability and scalability.
 
 ## Installation
 1. Clone the repository
