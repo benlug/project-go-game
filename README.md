@@ -1,7 +1,7 @@
 # Project Go
 
 ## Overview
-This project is a Python implementation of the classic board game "Go". The game includes a graphical user interface (GUI) built using the `pyglet` library. It follows the Model-View-Controller (MVC) design pattern to ensure clean separation of game logic, user interface, and control flow.
+This project is a Python implementation of the classic board game "Go". The game includes a graphical user interface (GUI) built using the `pyglet` library. It follows the Model-View-Controller (MVC) design pattern.
 
 ## Features
 - **Interactive GUI**: Allows players to place stones on a 9x9 board.
